@@ -1,0 +1,11 @@
+KIRMADA V3 – Visual Upgrade & History System
+
+This version brought several essential GUI and utility improvements:
+
+- Added **Dark/Light Theme Toggle**
+- Introduced an animated welcome label
+- Saved the **last 10 searched topics** locally
+- Output display made read-only for clean viewing
+- Initial export features for note saving were tested
+
+V3 became the visual and functional baseline for future patch development.

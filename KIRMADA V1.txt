@@ -1,0 +1,3 @@
+KIRMADA V1 – Starter Build
+
+The first  version of Kirmada focused on basic **Offline Search** based note generation. It had a single-user interface with a text input and a basic output display. Notes were generated using offline sources only. There was no login system, theme control, or profile management.

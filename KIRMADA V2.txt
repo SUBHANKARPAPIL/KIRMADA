@@ -1,0 +1,9 @@
+KIRMADA V2 – Dual Mode Update
+
+
+Version 2 introduced the **Offline + Online Search** structure. The offline section returned summary notes from pre-defined data sources, while the online section fetched the latest data from external online sources. The UI displayed both types of content in a split format:
+
+Offline: -------------------------- 
+Online: --------------------------
+
+This version laid the foundation for AI-assisted contextual comparison.

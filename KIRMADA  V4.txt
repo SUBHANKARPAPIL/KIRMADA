@@ -1,0 +1,48 @@
+KIRMADA V4 PATCH--STORMS
+
+
+Update 1 – Identity Update--
+Introduced a one-time profile system with circular UI elements showing the username. Upon clicking the profile, the app opens directly. No avatar or image is required
+
+
+Update 2 – Multi Identity Access Patch--
+Added support for multiple user profiles (up to 5) on a single device. Each profile is displayed as a separate clickable circular button. Profiles can only be removed — not edited or re-created once the limit is reached.
+
+Update 3 – Theme Locker Patch--
+Introduced a small pop-out settings panel with 3 predefined themes for the notes output box:
+
+BW (Black & White)
+BBE (Black & Blue)
+NG (Navy & Grey)
+
+Each theme changes only the text and background color of the notes area. Future versions may include up 4 themes.
+
+Update 4 – Note Saver Patch*--*
+
+a feature that allows users to expot the generated notes directly as a PDF file. The file is automatically named based on the topic entered.
+
+
+
+personals--
+
+App Name: Kirmada V3
+Company: Storms
+Owner: Storms
+Developer: subhanakrpapil
+Purpose: Educational Notes Generator (Python, Tkinter based)
+
+Important notes--
+KIRMADA V3 can make mistakes. Always double-check important information.
+
+
+
+README--
+
+Kirmaaada is a locally designed AI notes tool focused on simplicity and theme-rich customization.
+It supports multi-user profiles, custom theme presets, and one-click PDF note generation.
+
+Built by a student, for students — for learning, not for commercial use.
+
+
+
+THIS UPDATE WILL COME ON MY GITHUB PROFILE-
