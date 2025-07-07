@@ -1,0 +1,110 @@
+KIRMADA V5 PATCH NOTES--
+
+
+
+UPDATE 1--Identity Shift Activated__-
+
+Kirmada is no more...
+Say hello to Bakaiti.ai –
+a smarter, wilder, and unapologetically chaotic version of the original AI notes tool.
+The name may be funny, but the output is still sharp.
+
+*Previously known as Kirmada V3 | Now reborn as Bakaiti.ai*
+
+
+
+Update 2 – UI Polish & Layout Enhancements
+
+
+The interface receives its first major visual enhancement since the rebrand. This update improves overall usability, readability, and user experience without altering the app’s core behavior.
+
+Redesigned Search Box:
+Rounded entry field for a modern and clean look.
+
+Smart Placeholder Behavior:
+Default placeholder text ("Search...") now automatically disappears as the user begins typing.
+
+Optional Rounded Output Area:
+The output display has been adjusted to optionally match the curvy aesthetic for visual consistency.
+
+Improved Font Rendering & Spacing:
+Subtle typography and layout adjustments to improve clarity and reduce visual fatigue.
+
+
+
+Update 3 – Incognito Session Toggle
+
+Users can now activate incognito mode from their profile to prevent recent topics from being saved during that session.
+
+
+Update 4 – Executable Icon Support
+
+
+EXE now supports custom .ico icon during build via pyinstaller
+Personalized branding now possible for desktop use
+
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧾 CREDITS – Kirmada V3 / Vol5 Patch Series
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📛 Current Project Name: Bakaiti.ai  
+🔁 Former Name: Kirmada V3  
+📦 Patch Series: Vol1 to Vol5 (ongoing)
+
+🛠️ Developed & Designed by:
+→ subhanakrpapil (Developer & System Logic)
+→ Storms (App Owner & Core Project Lead)
+
+🎯 Tech Stack:
+- Python 3.13
+- Tkinter (UI)
+- Requests / BS4 / Google Search / Offline Modules
+- FPDF for PDF Exports
+- Modular local file handling (.txt / history)
+
+🎨 UI & Feature Concepts:
+- Profile System
+- Offline + Online Data Fetch
+- Theme Locker
+- Search History & Incognito Modes
+- Patch-Based Update Strategy
+
+⚠️ Disclaimer:
+This app is built purely for educational & experimental use.
+Generated data may contain inaccuracies. Please verify important content.
+
+📌 Special Thanks:
+All open-source libraries and Python developers who contributed modules/tools.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© Storms | All rights reserved | 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
